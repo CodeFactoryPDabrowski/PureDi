@@ -1,7 +1,6 @@
 package com.codefactorypdabrowski.puredi.dataone
 
 class DataOneModule {
-
     val repositoryOne: RepositoryOne by lazy {
         val dataSourceOne = DataSourceOne()
         val dataSourceTwo = DataSourceTwo()
