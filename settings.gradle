@@ -1,2 +1,3 @@
+rootProject.name = "pure-di"
+
 include ':app'
-rootProject.name = "PureDi"
