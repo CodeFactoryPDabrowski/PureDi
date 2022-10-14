@@ -1,4 +1,4 @@
-package com.codefactorypdabrowski.puredi.basedi.app
+package com.codefactorypdabrowski.puredi.di.app
 
 import android.content.Context
 import com.codefactorypdabrowski.puredi.app.App

@@ -1,4 +1,4 @@
-package com.codefactorypdabrowski.puredi.basedi.activity
+package com.codefactorypdabrowski.puredi.di.activity
 
 /**
  * Helps injecting members into clients that cannot use constructor injection e.g Activity

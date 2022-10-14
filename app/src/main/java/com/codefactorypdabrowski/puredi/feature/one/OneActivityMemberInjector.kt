@@ -1,6 +1,6 @@
 package com.codefactorypdabrowski.puredi.feature.one
 
-import com.codefactorypdabrowski.puredi.basedi.activity.MembersInjector
+import com.codefactorypdabrowski.puredi.di.activity.MembersInjector
 
 /**
  * Example of injector for OneActivity

@@ -1,4 +1,4 @@
-package com.codefactorypdabrowski.puredi.basedi.app
+package com.codefactorypdabrowski.puredi.di.app
 
 import com.codefactorypdabrowski.puredi.dataone.DataOneModule
 

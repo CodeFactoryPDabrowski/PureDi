@@ -1,4 +1,4 @@
-package com.codefactorypdabrowski.puredi.basedi
+package com.codefactorypdabrowski.puredi.di
 
 /**
  * Provides dependencies needed for clients
